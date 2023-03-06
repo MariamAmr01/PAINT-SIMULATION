@@ -1,2 +1,2 @@
 # Graphics-Simulation-of-Paint
-Draw different shapes and fill them with different colors using different algorithms.
+Simple windows application to draw, fill shapes with colors, and clip shapes into different shaped screens written in C++.
