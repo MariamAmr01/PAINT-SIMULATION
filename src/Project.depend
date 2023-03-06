@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1653766137 source:e:\fcai\3rd level\2nd term\computer graphics\codes\project\main.cpp
+	<Windows.h>
+	<fstream>
+	<iostream>
+	<vector>
+	<CommCtrl.h>
+	<tchar.h>
+	<math.h>
+	"Ellipse.h"
+	"Line.h"
+	"Circle.h"
+	"Curves.h"
+	"Filling.h"
+	"Clipping.h"
+
+1653742388 e:\fcai\3rd level\2nd term\computer graphics\codes\project\ellipse.h
+	<iostream>
+	<math.h>
+
+1653742388 e:\fcai\3rd level\2nd term\computer graphics\codes\project\line.h
+	<iostream>
+	<math.h>
+	<wtypes.h>
+
+1653742271 e:\fcai\3rd level\2nd term\computer graphics\codes\project\circle.h
+	<iostream>
+	<math.h>
+	<wtypes.h>
+
+1653765371 e:\fcai\3rd level\2nd term\computer graphics\codes\project\curves.h
+	<iostream>
+	<math.h>
+	<wtypes.h>
+	"Ellipse.h"
+
+1653765485 e:\fcai\3rd level\2nd term\computer graphics\codes\project\filling.h
+	<bits/stdc++.h>
+	<iostream>
+	<queue>
+	<wtypes.h>
+	"Ellipse.h"
+	"Line.h"
+	"Curves.h"
+	"Circle.h"
+
+1653742270 e:\fcai\3rd level\2nd term\computer graphics\codes\project\clipping.h
+	<iostream>
+	<vector>
+	"Curves.h"
+	"Line.h"
+	"Circle.h"
+
+1653783141 source:e:\fcai\3rd level\2nd term\computer graphics\20190520_20190600_20190105_20190155_20190502_cs_s4\main.cpp
+	<Windows.h>
+	<fstream>
+	<iostream>
+	<vector>
+	<CommCtrl.h>
+	<tchar.h>
+	<math.h>
+	"Ellipse.h"
+	"Line.h"
+	"Circle.h"
+	"Curves.h"
+	"Filling.h"
+	"Clipping.h"
+
+1653742388 e:\fcai\3rd level\2nd term\computer graphics\20190520_20190600_20190105_20190155_20190502_cs_s4\ellipse.h
+	<iostream>
+	<math.h>
+
+1653742388 e:\fcai\3rd level\2nd term\computer graphics\20190520_20190600_20190105_20190155_20190502_cs_s4\line.h
+	<iostream>
+	<math.h>
+	<wtypes.h>
+
+1653742271 e:\fcai\3rd level\2nd term\computer graphics\20190520_20190600_20190105_20190155_20190502_cs_s4\circle.h
+	<iostream>
+	<math.h>
+	<wtypes.h>
+
+1653765371 e:\fcai\3rd level\2nd term\computer graphics\20190520_20190600_20190105_20190155_20190502_cs_s4\curves.h
+	<iostream>
+	<math.h>
+	<wtypes.h>
+	"Ellipse.h"
+
+1653765485 e:\fcai\3rd level\2nd term\computer graphics\20190520_20190600_20190105_20190155_20190502_cs_s4\filling.h
+	<bits/stdc++.h>
+	<iostream>
+	<queue>
+	<wtypes.h>
+	"Ellipse.h"
+	"Line.h"
+	"Curves.h"
+	"Circle.h"
+
+1653742270 e:\fcai\3rd level\2nd term\computer graphics\20190520_20190600_20190105_20190155_20190502_cs_s4\clipping.h
+	<iostream>
+	<vector>
+	"Curves.h"
+	"Line.h"
+	"Circle.h"
+
